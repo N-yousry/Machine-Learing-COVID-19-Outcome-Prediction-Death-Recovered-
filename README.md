@@ -28,7 +28,10 @@ The Project includes
     Without Hyperprameter tuning, With Hyperparamter tuning, and then a Comparison between the 2 models with respect to F2
     
 5. **Support Vector Machine:**
+
     Without Hyperparameters Tuning, With Hyperparameters Tuningand then a Comparison between the 2 models with respect to F2
     
     
- 6. ****FINALLY***** An evaluation for all the applied classfieres, comparing them according to the *SCORE*
+ 6. ****FINALLY****
+
+ An evaluation for all the applied classfieres, comparing them according to the *SCORE*
