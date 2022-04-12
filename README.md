@@ -19,10 +19,16 @@ The Project includes
 
 *Implementation of Naïve Bayes, it a basic implementation of the naive bayes.*
 
-3.**Logistic Regression Classifier:**
+3. **Logistic Regression Classifier:**
 
- Without Hyperparameters Tuning, With Hyperparameter Tuning and One-Hot-Encoding, then a Comparison between the 3 models with respect to F2
+     Without Hyperparameters Tuning, With Hyperparameter Tuning and One-Hot-Encoding, then a Comparison between the 3 models with respect to F2
 
 4. **Decision Tree Classifier:**
 
-Without Hyperprameter tuning, With Hyperparamter tuning
+    Without Hyperprameter tuning, With Hyperparamter tuning, and then a Comparison between the 2 models with respect to F2
+    
+5. **Support Vector Machine:**
+    Without Hyperparameters Tuning, With Hyperparameters Tuningand then a Comparison between the 2 models with respect to F2
+    
+    
+ 6. ****FINALLY***** An evaluation for all the applied classfieres, comparing them according to the *SCORE*
